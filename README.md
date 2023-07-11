@@ -1,6 +1,6 @@
 # Music Player
 
-Check out my project here: https://marquis4484.github.io/musicplayer/
+Check out my project here: https://ms-musicplayer.com
 
 <img src='/assets/Music-Player.png'>
 
