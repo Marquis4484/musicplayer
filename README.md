@@ -14,7 +14,7 @@ The icons used in this project are from Font Awesome's website.
 ## Conclusion
 
 This project was created for me to understand JavaScript a bit more.
-I also wanted to learn how to be more creative about using JavaScript.
+I also wanted to learn how to be more creative with using JavaScript.
 It was a pleasure to work on this and I'd like to learn how to be more creative with JavaScript in the future.
 
 ## Credit
